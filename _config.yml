@@ -1,6 +1,6 @@
 # Site settings
 course_name: Building Reliable And Secure Systems
-course_description: "This course will explore modern techniques for building software systems that are reliable, resilient, and secure. The Rust programming language is covered, along with software build systems and the DevOps and methodologies."
+course_description: "This course will explore modern techniques for building software systems that are reliable, resilient, and secure. The Rust programming language is covered, along with software build systems and the DevOps and methodologies.."
 course_semester: "Spring 2025"
 
 baseurl: "/cosc-69-brass" # the subpath of your site, e.g. /blog/

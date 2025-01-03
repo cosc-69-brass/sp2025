@@ -1,19 +1,19 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: Building Reliable And Secure Systems
+course_description: "This course will explore modern techniques for building software systems that are reliable, resilient, and secure. The Rust programming language is covered, along with software build systems and the DevOps and methodologies."
+course_semester: "Spring 2025"
 
-baseurl: "/jekyll-course-website-template" # the subpath of your site, e.g. /blog/
-url: "http://kazemnejad.github.io/" # the base hostname & protocol for your site
+baseurl: "/cosc-69-brass" # the subpath of your site, e.g. /blog/
+url: "http://ccpalmer.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+schoolname: "Dartmouth College"
+schoolurl: "https://dartmouth.edu"
+twitter_username: "drcybersecurity"
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    Dartmouth College
+    Hanover
+    New Hampshire
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X

@@ -8,6 +8,8 @@ url: "http://cosc-69-brass.github.io/" # the base hostname & protocol for your s
 
 schoolname: "Dartmouth College"
 schoolurl: "https://dartmouth.edu"
+github_username: "ccpalmer"
+bluesky_username: "drcybersecurity"
 twitter_username: "drcybersecurity"
 
 address: |
